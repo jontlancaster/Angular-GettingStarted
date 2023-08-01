@@ -1,0 +1,5 @@
+{
+    "html.completion.attributeDefaultValue": "singlequotes",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 10000
+}
